@@ -1,0 +1,22 @@
+{
+  "token": "ADD-YOUR-BOT-TOKEN-HERE",
+  "prefix": "SET-YOUR-PREFIX",
+  "code": "https://www.twitch.tv/cutiey",
+  "github": "https://github.com/Svxy/Free-OTF-CSS-by-Cutiey",
+  "inv": "https://discord.com/api/oauth2/authorize?client_id=908163618321879081&permissions=431577623654&scope=bot",
+  "status1": "$help for all commands",
+  "status2": "New CSS command!",
+  "status3": "$help for all commands",
+  "status4": "New CSS command!",
+  "status5": "$help for all commands",
+  "8ball_response_one": "Fo sho. Comin to ya wit the flow..",
+  "8ball_response_two": "Sure muh boi",
+  "8ball_response_three": "Most definitely ong no cap",
+  "8ball_response_four": "hell yeah mf",
+  "8ball_response_five": "ehhhhh",
+  "8ball_response_six": "idk mane lmao.",
+  "8ball_response_seven": "nah.",
+  "8ball_response_eight": "prolly.",
+  "8ball_response_nine": "ion rlly know...",
+  "8ball_response_ten": "Unfortunately not lmao"
+}
